@@ -10,33 +10,34 @@ brew install --cask visual-studio-code
 echo "Installing communication apps..."
 
 brew install --cask discord
-brew install --cask zoom
 brew install --cask microsoft-teams
+brew install --cask zoom
 
 # Networking Tools
 echo "Installing networking tools..."
 
-brew install --cask tailscale
-brew install --cask parsec
 brew install --cask microsoft-remote-desktop
+brew install --cask parsec
+brew install --cask tailscale
 
 # Writing Apps
 echo "Installing writing apps..."
 
 brew install --cask deepl
-brew install --cask zotero
 brew install --cask evernote
+brew install --cask zotero
 
 
 # Other
 echo "Installing everything else..."
 
-brew install --cask vlc
-brew install --cask microsoft-edge
 brew install --cask 1password
-brew install --cask ultimaker-cura
-brew install --cask sharemouse
 brew install --cask adobe-creative-cloud
+brew install --cask exodus
+brew install --cask microsoft-edge
+brew install --cask sharemouse
+brew install --cask ultimaker-cura
+brew install --cask vlc
 brew install mackup
 
 
