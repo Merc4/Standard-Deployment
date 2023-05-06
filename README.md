@@ -35,6 +35,12 @@ engine = icloud
 mackup restore
 ```
 
+Then run the MacOS Defaults Script.
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Merc4/Standard-Deployment/main/MacOSConfig.sh)"
+```
+
 ## Table of Contents:
 
 ```bash
