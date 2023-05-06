@@ -18,7 +18,6 @@ echo "Installing networking tools..."
 
 brew install --cask microsoft-remote-desktop
 brew install --cask parsec
-brew install --cask tailscale
 
 # Writing Apps
 echo "Installing writing apps..."
@@ -68,6 +67,9 @@ mas install 441258766
 
 echo "Installing GoodNote from Mac App Store ..."
 mas install 1444383602
+
+echo "Installing tailscale from Mac App Store ..."
+mas install 1475387142
 
 # Microsoft Office 365 Apps
 echo "Installing Microsoft 365 Apps from Mac App Store ..."

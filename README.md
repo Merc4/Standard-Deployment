@@ -43,16 +43,17 @@ ca-certificates	mas		openssl@1.1	readline	sqlite
 mackup		mpdecimal	python@3.11	six		xz
 
 ==> Casks
-1password			microsoft-teams
-adobe-creative-cloud		parsec
-deepl				sharemouse
-discord				tailscale
+1password			microsoft-remote-desktop
+adobe-creative-cloud		microsoft-teams
+deepl				parsec
+discord				sharemouse
 docker				ultimaker-cura
 evernote			visual-studio-code
-github				vlc
-microsoft-edge			zoom
-microsoft-remote-desktop	zotero
+exodus				vlc
+github				zoom
+microsoft-edge			zotero
 
+1475387142  Tailscale             (1.40.0)
 1569813296  1Password for Safari  (2.10.0)
 1444383602  GoodNotes             (5.9.105)
 409183694   Keynote               (13.0)
