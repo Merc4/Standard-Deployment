@@ -2,8 +2,6 @@ echo "Starting Standard Deployment"
 # Dev Tools
 echo "Installing development tools..."
 
-brew install --cask docker
-brew install --cask github
 brew install --cask visual-studio-code
 
 # Communication Apps
@@ -34,7 +32,6 @@ brew install --cask 1password
 brew install --cask adobe-creative-cloud
 brew install --cask exodus
 brew install --cask microsoft-edge
-brew install --cask sharemouse
 brew install --cask ultimaker-cura
 brew install --cask vlc
 brew install mackup
@@ -46,6 +43,9 @@ echo "Installing Mac App Store command line interface ..."
 brew install mas
 
 echo "Installing Mac App Store Apps ..."
+
+echo "Installing AdGuard for Safari from Mac App Store ..."
+mas install 1440147259
 
 echo "Installing 1Password for Safari from Mac App Store ..."
 mas install 451108668
