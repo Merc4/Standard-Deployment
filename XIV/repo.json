@@ -1,0 +1,26 @@
+[
+    {
+      "Author": "Usagi_marzent",
+      "Name": "IINACTCN",
+      "InternalName": "IINACTCN",
+      "AssemblyVersion": "0.4.6",
+      "TestingAssemblyVersion": "0.4.6",
+      "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET, folked by tssailzz8 for Localisation changes.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/tssailzz8/IINACT",
+      "Tags": [
+        "parsing",
+        "plugin",
+        "ACT"
+      ],
+      "DalamudApiLevel": 8,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/tssailzz8/IINACT/master/images/icon.png",
+      "Punchline": "A parsing plugin.",
+      "IsHide": "False",
+      "IsTestingExclusive": "False",
+      "DownloadLinkInstall": "https://github.com/tssailzz8/IINACT/releases/download/v0.4.6/inact.zip", 
+      "DownloadLinkTesting": "https://github.com/tssailzz8/IINACT/releases/download/v0.4.6/inact.zip",
+      "DownloadLinkUpdate": "https://github.com/tssailzz8/IINACT/releases/download/v0.4.6/inact.zip"
+    }
+    ]
